@@ -28,6 +28,12 @@ java-algorithms/
 
 ## 📖 Algorithm Categories
 
+### Math Algorithms
+- Divisors
+- Euclidean
+- PrimeFactorization
+- SieveOfEratosthenes
+
 ### Searching Algorithms
 - Linear Search
 - Binary Search
@@ -52,11 +58,7 @@ java-algorithms/
 - KruskalsAlgorithm
 - PrimsAlgorithm
 
-### Math Algorithms
-- Divisors
-- Euclidean
-- PrimeFactorization
-- SieveOfEratosthenes
+### Dynamic programming
 
 ### BackTracking Algorithms
 - RateInAMaze
