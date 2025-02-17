@@ -11,6 +11,7 @@ Welcome to the **Java Algorithms Repository**! This repository contains various 
 ## 📂 Directory Structure
 ```
 java-algorithms/
+├── MathAlgorithms/
 ├── SearchingAlgorithms/
 ├── SortingAlgorithms/
 ├── GreedyAlgorithms/
