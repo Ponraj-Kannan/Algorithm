@@ -1,11 +1,4 @@
-package MathAlgorithms; /**
- * The Sieve of Eratosthenes is an efficient algorithm to find all prime numbers up to a given number N.
- * It works by iteratively marking the multiples of each prime number starting from 2.
- * This implementation uses a boolean array to track prime numbers and marks non-prime numbers as false.
-
- * Time Complexity: O(N log log N)
- * Space Complexity: O(N)
- */
+package MathAlgorithms;
 
 import java.util.Arrays;
 
